@@ -10,7 +10,7 @@ It showcases my profile, technical skills, projects, certifications and career g
 - Deployed using GitHub Pages
 
 ## 🔗 Live Website
-https://varshithkumars03.github.io/my_portfolio/
+https://varshithkumars03.github.io/my-portfolio/
 
 ## 🛠 Tech Stack
 - HTML
@@ -19,4 +19,5 @@ https://varshithkumars03.github.io/my_portfolio/
 
 ## 👨‍💻 Author
 Varshith Kumar S  
+
 
